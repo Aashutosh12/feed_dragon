@@ -1,8 +1,3 @@
-# feed_dragon
-Certainly! Here's a basic README template for your GitHub repository for the "Feed the Dragon" game. Feel free to customize it further based on additional details you want to include:
-
----
-
 # Feed the Dragon
 
 ## Description
@@ -60,7 +55,7 @@ python main.py
 
 ## Credits
 
-- **Author**: Your Name
+- **Author**: Aashutosh Singh Rawat
 - **License**: This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
@@ -76,13 +71,3 @@ python main.py
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-### Additional Notes:
-
-- Replace `your-username` in the clone URL with your actual GitHub username.
-- Make sure to include any additional setup instructions or dependencies if your game requires them.
-- Update the "Description" section with a brief overview of your game.
-- You can include more screenshots or GIFs to showcase the gameplay if needed.
-
-This README should provide a clear understanding of what your game is about, how to install and run it, and how others can contribute to the project. Adjust it as necessary to fit your specific project details and preferences.
