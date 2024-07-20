@@ -9,7 +9,8 @@ Certainly! Here's a basic README template for your GitHub repository for the "Fe
 
 Feed the Dragon is a simple game built using Python and Pygame where players control a dragon to collect coins while avoiding obstacles. The game features basic mechanics such as player movement, score tracking, lives management, and game over conditions.
 
-![Gameplay Screenshot](gameplay_screenshot.png)
+![Capture](https://github.com/user-attachments/assets/22fb89a0-5d53-4374-9c40-58830e3200dd)
+
 
 ## Features
 
